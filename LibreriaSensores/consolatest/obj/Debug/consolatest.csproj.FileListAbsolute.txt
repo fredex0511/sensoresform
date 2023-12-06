@@ -1,0 +1,12 @@
+C:\Users\elcho\source\repos\LibreriaSensores\consolatest\bin\Debug\consolatest.exe.config
+C:\Users\elcho\source\repos\LibreriaSensores\consolatest\bin\Debug\consolatest.exe
+C:\Users\elcho\source\repos\LibreriaSensores\consolatest\bin\Debug\consolatest.pdb
+C:\Users\elcho\source\repos\LibreriaSensores\consolatest\bin\Debug\LibreriaSensores.dll
+C:\Users\elcho\source\repos\LibreriaSensores\consolatest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\elcho\source\repos\LibreriaSensores\consolatest\bin\Debug\LibreriaSensores.pdb
+C:\Users\elcho\source\repos\LibreriaSensores\consolatest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\elcho\source\repos\LibreriaSensores\consolatest\obj\Debug\consolatest.csproj.AssemblyReference.cache
+C:\Users\elcho\source\repos\LibreriaSensores\consolatest\obj\Debug\consolatest.csproj.CoreCompileInputs.cache
+C:\Users\elcho\source\repos\LibreriaSensores\consolatest\obj\Debug\consolatest.csproj.CopyComplete
+C:\Users\elcho\source\repos\LibreriaSensores\consolatest\obj\Debug\consolatest.exe
+C:\Users\elcho\source\repos\LibreriaSensores\consolatest\obj\Debug\consolatest.pdb

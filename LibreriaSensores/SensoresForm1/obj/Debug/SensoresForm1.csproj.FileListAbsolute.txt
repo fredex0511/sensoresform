@@ -1,0 +1,15 @@
+C:\Users\elcho\source\repos\LibreriaSensores\SensoresForm1\bin\Debug\SensoresForm1.exe.config
+C:\Users\elcho\source\repos\LibreriaSensores\SensoresForm1\bin\Debug\SensoresForm1.exe
+C:\Users\elcho\source\repos\LibreriaSensores\SensoresForm1\bin\Debug\SensoresForm1.pdb
+C:\Users\elcho\source\repos\LibreriaSensores\SensoresForm1\bin\Debug\LibreriaSensores.dll
+C:\Users\elcho\source\repos\LibreriaSensores\SensoresForm1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\elcho\source\repos\LibreriaSensores\SensoresForm1\bin\Debug\LibreriaSensores.pdb
+C:\Users\elcho\source\repos\LibreriaSensores\SensoresForm1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\elcho\source\repos\LibreriaSensores\SensoresForm1\obj\Debug\SensoresForm1.csproj.AssemblyReference.cache
+C:\Users\elcho\source\repos\LibreriaSensores\SensoresForm1\obj\Debug\SensoresForm1.Form1.resources
+C:\Users\elcho\source\repos\LibreriaSensores\SensoresForm1\obj\Debug\SensoresForm1.Properties.Resources.resources
+C:\Users\elcho\source\repos\LibreriaSensores\SensoresForm1\obj\Debug\SensoresForm1.csproj.GenerateResource.cache
+C:\Users\elcho\source\repos\LibreriaSensores\SensoresForm1\obj\Debug\SensoresForm1.csproj.CoreCompileInputs.cache
+C:\Users\elcho\source\repos\LibreriaSensores\SensoresForm1\obj\Debug\SensoresForm1.csproj.CopyComplete
+C:\Users\elcho\source\repos\LibreriaSensores\SensoresForm1\obj\Debug\SensoresForm1.exe
+C:\Users\elcho\source\repos\LibreriaSensores\SensoresForm1\obj\Debug\SensoresForm1.pdb

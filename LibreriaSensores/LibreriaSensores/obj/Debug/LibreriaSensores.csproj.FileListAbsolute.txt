@@ -1,0 +1,9 @@
+C:\Users\elcho\source\repos\LibreriaSensores\LibreriaSensores\bin\Debug\LibreriaSensores.dll
+C:\Users\elcho\source\repos\LibreriaSensores\LibreriaSensores\bin\Debug\LibreriaSensores.pdb
+C:\Users\elcho\source\repos\LibreriaSensores\LibreriaSensores\bin\Debug\Newtonsoft.Json.dll
+C:\Users\elcho\source\repos\LibreriaSensores\LibreriaSensores\bin\Debug\Newtonsoft.Json.xml
+C:\Users\elcho\source\repos\LibreriaSensores\LibreriaSensores\obj\Debug\LibreriaSensores.csproj.AssemblyReference.cache
+C:\Users\elcho\source\repos\LibreriaSensores\LibreriaSensores\obj\Debug\LibreriaSensores.csproj.CoreCompileInputs.cache
+C:\Users\elcho\source\repos\LibreriaSensores\LibreriaSensores\obj\Debug\LibreriaSensores.csproj.CopyComplete
+C:\Users\elcho\source\repos\LibreriaSensores\LibreriaSensores\obj\Debug\LibreriaSensores.dll
+C:\Users\elcho\source\repos\LibreriaSensores\LibreriaSensores\obj\Debug\LibreriaSensores.pdb
